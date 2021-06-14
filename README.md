@@ -13,9 +13,7 @@
 
 3) ### Running the server:
 
-         cd src
-   
-         uvicorn main:app --reload
+         python app_run.py
 
 4) ### Debugging RestAPI endpoints:
 
